@@ -19,8 +19,6 @@
         "github": "GitHub Username",
         "sourceforge": "SourceForge Username",
         "initial_installation_images": [
-        "img files to be flashed before sideloading Evolution X's zip"
-      ]
-    }
+        "img files to be flashed before sideloading cDroid"
   ]
 }
