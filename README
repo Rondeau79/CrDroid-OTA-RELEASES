@@ -4,7 +4,7 @@
         "maintainer": "Name (nickname)",
         "oem": "OEM",
         "device": "Device Name",
-        "filename": "crDroidAndroid-16.0-<date>-<devicecodename>-v<crversion>.zip",
+        "filename": "crDroidAndroid-16.0-<date>-<device codename>-v<crversion>.zip",
         "download": "https://sourceforge.net/projects/crdroid-v7-x-sofiar/files/CrDroid/<device codename>/<crversion>/crDroidAndroid-16.0-<date>-<device codename>-v<crversion>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
